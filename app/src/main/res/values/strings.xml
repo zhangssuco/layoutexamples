@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Various Layout Examples For CSCI 268 2019</string>
+
+
+        <string-array name="reference_list">
+
+            <item>https://www.tutorialspoint.com/android/android_table_layout.htm</item>
+            <item>https://www.journaldev.com/13590/android-constraintlayout </item>
+            <item>Tennis</item>
+            <item>FootBall</item>
+            <item>Basket Ball</item>
+            <item>Table Tennis</item>
+            <item>Chess</item>
+            <item>Hockey</item>
+        </string-array>
+</resources>
